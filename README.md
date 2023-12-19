@@ -5,13 +5,13 @@
 <h1 align="center">PostgreSQL Compose Project</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/laspegasuscommunity/postgres?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/laspegasuscommunity/postgres?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/laspegasuscommunity/postgres?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/laspegasuscommunity/postgres?color=56BEB8">
-  <img alt="Github issues" src="https://img.shields.io/github/issues/laspegasuscommunity/postgres?color=56BEB8" />
-  <img alt="Github forks" src="https://img.shields.io/github/forks/laspegasuscommunity/postgres?color=56BEB8" />
-  <img alt="Github stars" src="https://img.shields.io/github/stars/laspegasuscommunity/postgres?color=56BEB8" />
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/laspegasuscommunity/synapse-postgres?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/laspegasuscommunity/synapse-postgres?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/laspegasuscommunity/synapse-postgres?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/laspegasuscommunity/synapse-postgres?color=56BEB8">
+  <img alt="Github issues" src="https://img.shields.io/github/issues/laspegasuscommunity/synapse-postgres?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/laspegasuscommunity/synapse-postgres?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/laspegasuscommunity/synapse-postgres?color=56BEB8" />
 </p>
 
 <hr>
